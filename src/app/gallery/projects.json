@@ -1630,5 +1630,13 @@
     "codeUrl": "https://github.com/studyloops37238/mediTrack",
     "githubUsername": "studyloops37238",
     "imageSrc": "/gallery/screenshots/recGMWzedvoALJ3Wb.webp"
+  },
+  {
+    "recordId": "aaryan-10s-wifi-latency-analyzer",
+    "projectName": "Wi-Fi Latency Analyzer",
+    "demoUrl": "https://github.com/aaryan-10s/Wi-Fi-Latency-Analyzer/releases/tag/v1.0.0",
+    "codeUrl": "https://github.com/aaryan-10s/Wi-Fi-Latency-Analyzer",
+    "githubUsername": "aaryan-10s",
+    "imageSrc": "/gallery/placeholder.svg"
   }
 ]
